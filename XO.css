@@ -1,0 +1,43 @@
+td{
+    width: 25px;
+    height: 25px;
+}
+table{
+    text-align: center;
+    line-height: 25px;
+    border:1px solid black;
+}
+#board{
+    width: 900px;
+    height: 320px;
+    background: rgba(255, 40,120, 0.7);
+    padding:20px;
+    border: 8px white solid;
+    box-shadow: inset 0px 0px 20px #0ff, 5px 5px 20px #0ff;
+}
+#play td{
+    cursor:pointer;
+}
+#play{
+    width: 300px;
+    height: 300px;
+    display: inline-block;
+    vertical-align: top;
+}
+#map,#info{
+    width:260px;
+    margin-left:20px;
+    display:inline-block;
+    line-height: 30px;
+    vertical-align: top;
+
+}
+#map{
+    line-height: 10px;
+}
+.red{
+    color: red;
+background: #ffc6da;
+
+
+}

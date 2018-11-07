@@ -1,0 +1,1 @@
+# Game : Tic o Tac, 3 or (n) steps only to check the winner, no check for all cells four times.
